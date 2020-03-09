@@ -1,1 +1,1 @@
-# Hackathon-Insurance
+# Hackathon-Insurance Claim Prediction
